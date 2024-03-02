@@ -30,7 +30,8 @@ This ETL (Extract, Transform, Load) project aims to extract human resources data
 
 Here is  the HR data pipeline :
 
-![HR data pipeline](Main/images/hr_data_pipeline.png)
+![HR data pipeline]![hr_data_pipeline](https://github.com/ouzidan/Human-Resources-data-pipeline-main/assets/93883044/243b91be-a81b-4e23-82ce-3e17cb51c595)
+
 
 
 ## ETL Process
@@ -89,7 +90,8 @@ To run this project, follow these steps:
 
 Here is  the HR Dashboard created in Power BI:
 
-![HR Dashboard](Main/images/dashboard.png)
+![HR Dashboard]![dashboard](https://github.com/ouzidan/Human-Resources-data-pipeline-main/assets/93883044/def0e129-d18e-4a03-8645-0a0bf18b940e)
+
 
 
 
